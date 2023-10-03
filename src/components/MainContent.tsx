@@ -5,7 +5,7 @@ const MainContent = () => {
     <>
       <div className="main-content">
         <div className="image-container">
-          <img id="profilePic" src="../pictures/picOfMe.jpg" alt="Your Name" />
+          <img id="profilePic" src="./pictures/picOfMe.jpg" alt="Your Name" />
         </div>
         <div className="text-container">
           <h1>Jacob Clostio</h1>
