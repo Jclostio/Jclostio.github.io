@@ -31,21 +31,17 @@ const Navbar = () => {
           </a>
           <ul className="nav justify-content-center">
             <li className="nav-item">
-              <a className="nav-link" href="/Jclostio.github.io/about">
+              <a className="nav-link" href="/about">
                 About
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/Jclostio.github.io/projects">
+              <a className="nav-link" href="/projects">
                 Projects
               </a>
             </li>
             <li className="nav-item">
-              <a
-                className="nav-link"
-                href="/Jclostio.github.io/resume.pdf"
-                target="_blank"
-              >
+              <a className="nav-link" href="../resume.pdf" target="_blank">
                 Resume
               </a>
             </li>

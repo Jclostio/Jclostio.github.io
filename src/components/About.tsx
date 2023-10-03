@@ -12,7 +12,7 @@ const About = () => {
           <div className="section-content">
             <figure>
               <img
-                src="/Jclostio.github.io/pictures/citywall.jpg"
+                src="../pictures/citywall.jpg"
                 alt="Beautiful landscape"
               ></img>
               <figcaption>A beautiful la</figcaption>
@@ -33,7 +33,7 @@ const About = () => {
           <div className="section-content">
             <figure>
               <img
-                src="/Jclostio.github.io/pictures/citywall.jpg"
+                src="../pictures/citywall.jpg"
                 alt="Beautiful landscape"
               ></img>
               <figcaption>A beautiful la</figcaption>

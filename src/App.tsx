@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       <div className={`fade-in-element ${isVisible ? "fade-in" : ""}`}>
-        <Router basename="/Jclostio.github.io">
+        <Router>
           <Navbar />
           <Routes>
             <Route path="/" element={<MainContent />} />
