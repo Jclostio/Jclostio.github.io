@@ -1,0 +1,45 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+
+.about-section {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.about-header {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+.section-content {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+    
+    margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+img {
+    max-width: 90%;
+    height: auto;
+    margin-right: 50px;
+    border-radius: 10px; 
+}
+
+.text {
+    padding-left: 100px;
+}
+
+hr {
+    margin: 20px 0;
+}

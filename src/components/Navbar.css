@@ -1,0 +1,12 @@
+/* Initial styles for the navbar */
+  
+.navbar {
+  background-color: hsl(0, 0%, 90%);    opacity: 1; /* Initial opacity */
+  transition: background-color 0.3s ease, opacity 0.3s ease; /* Add smooth transitions for background color and opacity */
+  }
+  
+  /* Styles for the navbar when scrolled */
+.navbar.scrolled {
+    background-color: hsl(0, 0%, 90%);  
+    opacity: 0; /* Reduced opacity when scrolled */
+  }

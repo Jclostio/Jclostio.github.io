@@ -1,0 +1,14 @@
+.contact-container {
+    display: flex; /* Use flexbox to create a horizontal layout */
+    justify-content: space-between; /* Distribute the content evenly along the horizontal axis */
+    align-items: center; /* Center the items vertically */
+    max-width: 1000px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the container horizontally on the page */
+    margin-bottom: 50px;
+  }
+  
+
+  .contact-container a {
+    text-decoration: none; /* Remove underlines from links */
+    color: blue; /* Change the link color as needed */
+  }

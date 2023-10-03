@@ -1,0 +1,35 @@
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    margin-left: 100px;
+  }
+  
+  .image-container {
+    flex: 1;
+    text-align: center; /* Center the image horizontally */
+  }
+  
+  .text-container {
+    flex: 1;
+    padding: 20px; /* Add padding around the text */
+    margin: 100px
+
+  }
+  .text-container h1 {
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .text-container p {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+  }
+  
+  /* Style the image */
+  #profilePic {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; 
+  }
