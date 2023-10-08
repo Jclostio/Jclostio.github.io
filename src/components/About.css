@@ -1,45 +1,72 @@
-body {
-    font-family:'Courier New', Courier, monospace;
-}
-
-
-
 .about-section {
     display: flex;
     align-items: center;
-    padding: 20px;
-}
-
-.about-header {
+    padding: 2%;
+  }
+  
+  .about-header {
     text-align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
-
-}
-
-.section-content {
+    padding-top: 5%;
+    padding-bottom: 2%;
+    
+  }
+  
+  figcaption {
+    text-align: center;
+  }
+  
+  .section-content {
     display: flex;
     align-items: center;
     text-align: left;
     justify-content: space-between;
-    
-    margin: auto;
-    margin-left: 5%;
-    margin-right: 5%;
-    
+    margin: 5%;
+  }
+  
+  .image-container {
+    flex: 0 0 25%; /* Set a fixed width for the image container */
+    padding-left: 1%;
+  }
+  .image-container-dog {
+    flex: 0 0 17%;
+    padding-left: 1%;
 }
-
-img {
-    max-width: 90%;
+  
+  img {
+    max-width: 100%;
     height: auto;
-    margin-right: 50px;
-    border-radius: 10px; 
-}
+    border-radius: 5%;
+    padding-top: 1%;
+  }
+  
+  .text {
+    flex: 1; /* Allow text to occupy remaining space */
+    padding-left: 7%; /* Add some padding between text and image */
+    padding-right: 5%;
+  }
+  
+  .text h2 {
+    margin-bottom: 25px;
+    text-align: left;
+  }
 
-.text {
-    padding-left: 100px;
-}
-
-hr {
+  hr {
     margin: 20px 0;
-}
+  }
+  @media screen and (max-width: 768px) {
+    .section-content {
+      flex-direction: column; /* Stack items vertically on small screens */
+      text-align: center;
+    }
+  
+    .image-container {
+      flex: 0 0 100%; /* Full width for images on small screens */
+      margin-bottom: 10px; /* Add space between images */
+    }
+
+  
+    .text {
+      flex: 1; /* Allow text to occupy full width */
+      padding: 0; /* Remove padding for better mobile layout */
+    }
+  }

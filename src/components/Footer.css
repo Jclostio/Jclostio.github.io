@@ -1,14 +1,30 @@
 .contact-container {
-    display: flex; /* Use flexbox to create a horizontal layout */
-    justify-content: space-between; /* Distribute the content evenly along the horizontal axis */
-    align-items: center; /* Center the items vertically */
-    max-width: 1000px; /* Adjust the maximum width as needed */
-    margin: 0 auto; /* Center the container horizontally on the page */
-    margin-bottom: 50px;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+  margin-bottom: 5%;
+  margin-top: 3%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
 
-  .contact-container a {
-    text-decoration: none; /* Remove underlines from links */
-    color: blue; /* Change the link color as needed */
+
+/* Style links within the contact container */
+.contact-container a {
+  text-decoration: none;
+  color: blue;
+}
+
+/* Media query for screens smaller than 768px (typical mobile devices) */
+@media (max-width: 768px) {
+  .contact-container {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    text-align: center; /* Center the items horizontally */
   }
+
+  /* Adjust the margin for smaller screens */
+  .contact-container a {
+    margin-bottom: 10px;
+  }
+}

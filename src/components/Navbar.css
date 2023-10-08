@@ -1,12 +1,27 @@
-/* Initial styles for the navbar */
-  
+
 .navbar {
   background-color: hsl(0, 0%, 90%);    opacity: 1; /* Initial opacity */
-  transition: background-color 0.3s ease, opacity 0.3s ease; /* Add smooth transitions for background color and opacity */
+  transition: background-color 0.3s ease, opacity 0.3s ease; 
   }
   
   /* Styles for the navbar when scrolled */
 .navbar.scrolled {
     background-color: hsl(0, 0%, 90%);  
     opacity: 0; /* Reduced opacity when scrolled */
+  }
+  @media (max-width: 768px) {
+    /* Adjust the styles for mobile */
+    .navbar {
+      position: fixed; /* Keep the navbar at the top of the screen on scroll */
+      top: 0;
+      left: 0;
+      width: 100%; /* Take up the full width of the screen */
+      z-index: 100; /* Ensure it's above other content */
+    }
+  
+    .navbar.scrolled {
+      /* Adjust background color and opacity for mobile */
+      background-color: hsl(0, 0%, 90%);
+      opacity: 1;
+    }
   }
