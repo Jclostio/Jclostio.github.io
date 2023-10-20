@@ -7,46 +7,50 @@
   .about-header {
     text-align: center;
     padding-top: 5%;
-    padding-bottom: 2%;
+    padding-bottom: 1%;
     
   }
-  
-  figcaption {
-    text-align: center;
+  .about-header h3 {
+    padding-top: 1%;
+    font-size: 20px;
   }
+  
   
   .section-content {
     display: flex;
     align-items: center;
     text-align: left;
     justify-content: space-between;
-    margin: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
   }
   
   .image-container {
     flex: 0 0 25%; /* Set a fixed width for the image container */
     padding-left: 1%;
   }
+
   .image-container-dog {
     flex: 0 0 17%;
     padding-left: 1%;
 }
   
-  img {
+  .about-section img {
     max-width: 100%;
     height: auto;
     border-radius: 5%;
-    padding-top: 1%;
+    padding: 1%;
   }
-  
+ 
   .text {
     flex: 1; /* Allow text to occupy remaining space */
-    padding-left: 7%; /* Add some padding between text and image */
-    padding-right: 5%;
+    padding-right: 10%;
   }
   
   .text h2 {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     text-align: left;
   }
 
@@ -63,10 +67,26 @@
       flex: 0 0 100%; /* Full width for images on small screens */
       margin-bottom: 10px; /* Add space between images */
     }
-
   
     .text {
       flex: 1; /* Allow text to occupy full width */
       padding: 0; /* Remove padding for better mobile layout */
+      text-align: center;
+      align-items: center;
+    }
+    .text h2 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+  }
+  @media screen and (min-width: 1200px) and (min-height: 800px) {
+    .section-content {
+      margin-right: 20%;
+      margin-left: 20%;
+    }
+    .text {
+      padding-right: 17%;
     }
   }
+  

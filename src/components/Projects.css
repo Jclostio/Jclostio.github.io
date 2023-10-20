@@ -1,24 +1,16 @@
-.projects-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  .project {
-    margin-bottom: 30px;
-    border: 1px solid #ccc;
-    padding: 20px;
-    border-radius: 5px;
-    background-color: #f9f9f9;
-  }
-  
-  .project h2 {
-    font-size: 20px;
-    margin-bottom: 10px;
-  }
-  
-  .project p {
-    font-size: 16px;
-    line-height: 1.5;
-  }
-  
+.project-header {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 1%;
+}
+.project-header h3 {
+  padding-top: 1%;
+  font-size: 20px;
+}
+.image-container-code {
+  flex: 0 0 33%; /* Set a fixed width for the image container */
+  padding-left: 1%;
+}
+figcaption { 
+  text-align: center;
+}

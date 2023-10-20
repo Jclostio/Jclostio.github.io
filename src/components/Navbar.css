@@ -1,27 +1,29 @@
 
 .navbar {
+  margin-left: 1%;
+  margin-right: 1%;
   background-color: hsl(0, 0%, 90%);    opacity: 1; /* Initial opacity */
   transition: background-color 0.3s ease, opacity 0.3s ease; 
   }
   
+  .navbar-brand img {
+    max-width: 175px;
+  }
+
   /* Styles for the navbar when scrolled */
 .navbar.scrolled {
     background-color: hsl(0, 0%, 90%);  
     opacity: 0; /* Reduced opacity when scrolled */
   }
   @media (max-width: 768px) {
-    /* Adjust the styles for mobile */
-    .navbar {
-      position: fixed; /* Keep the navbar at the top of the screen on scroll */
-      top: 0;
-      left: 0;
-      width: 100%; /* Take up the full width of the screen */
-      z-index: 100; /* Ensure it's above other content */
+    .container-fluid {
+      flex-direction: column; /* Stack elements vertically on smaller screens */
+      text-align: center; /* Center the items horizontally */
+      align-items: center;
+    }
+    .navbar.scrolled { 
+      opacity: 1; /* Reduced opacity when scrolled */
     }
   
-    .navbar.scrolled {
-      /* Adjust background color and opacity for mobile */
-      background-color: hsl(0, 0%, 90%);
-      opacity: 1;
-    }
   }
+  

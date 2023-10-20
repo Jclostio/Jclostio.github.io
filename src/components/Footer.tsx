@@ -2,7 +2,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <>
-      <hr></hr>
+      <hr className="footer-hr"></hr>
       <div className="contact-container">
         <div>jacobclostio@gmail.com</div>
         <div>

@@ -27,7 +27,7 @@ const Navbar = () => {
       <nav className={`navbar ${isScrolled ? "scrolled" : ""}`}>
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            Jacob Clostio
+            <img src="./pictures/logo.png" alt="Jacob Clostio" />
           </a>
           <ul className="nav justify-content-center">
             <li className="nav-item">

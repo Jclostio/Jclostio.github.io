@@ -6,11 +6,28 @@ const About = () => {
     <>
       <FadeIn>
         <div className="about-header">
-          <h1>About Me</h1>
+          <h1>
+            <b>About Me</b>
+          </h1>
+          <h3>My Background and Interests</h3>
         </div>
         <hr />
         <section className="about-section">
           <div className="section-content">
+            <div className="text">
+              <h2>
+                <b>Skiing</b>
+              </h2>
+              <p>
+                Living near Whitefish, Montana, means living close to Big
+                Mountain. My dad taught me how to ski at a very young age, and
+                I've been skiing most winters since. There's nothing better than
+                waking up early on a Saturday, gearing up, and driving to the
+                mountain on a crisp winter day. Upon arrival, the mountain
+                offers incredible scenic beauty and a variety of routes to keep
+                us entertained all day.
+              </p>
+            </div>
             <div className="image-container">
               <img
                 src="../pictures/SkiingPic.jpg"
@@ -20,82 +37,65 @@ const About = () => {
             <div className="image-container">
               <img src="../pictures/BigMountain.jpg" alt="Big Mountain"></img>
             </div>
+          </div>
+        </section>
+        <hr />
+        <section className="about-section">
+          <div className="section-content">
             <div className="text">
-              <h2>Skiing</h2>
+              <h2>
+                <b>Alaskan Hiking</b>
+              </h2>
               <p>
-                Living near Whitefish Montana, means living next to Big
-                Mountain. My dad taught me at a very young age how to ski, and I
-                have been skiing most winters since then. Big Mountain is
-                extremely scenic and full of many routes to fuel my love of
-                downhill skiing.
+                My sister lives in Alaska, and I had the opportunity to visit
+                her and her fiancé last summer. During the trip, I was able to
+                visit Seward, Alaska, where the Resurrection Bay fjord meets the
+                mountains creating a stunning view (as seen on the right). There
+                are seemingly endless hikes and outdoor activities to enjoy
+                during the summer, which, combined with the picturesque
+                landscapes, made for the best summer vacation.
               </p>
+            </div>
+            <div className="image-container">
+              <img src="../pictures/Seward.jpg" alt="Seward, Alaska"></img>
+              <div className="image">
+                <img src="../pictures/ReidLakesTop.jpg" alt="Reid Lakes"></img>
+              </div>
+            </div>
+            <div className="image-container">
+              <img src="../pictures/ChampTrailHike.jpg" alt="Champ Trail"></img>
+              <div className="image">
+                <img src="../pictures/ReidLakes.jpg" alt="Reid Lakes"></img>
+              </div>
             </div>
           </div>
         </section>
         <hr />
         <section className="about-section">
           <div className="section-content">
-            <div className="image-container">
-              <img src="../pictures/Seward.jpg" alt="Beautiful landscape"></img>
-              <div className="image">
-                <img
-                  src="../pictures/ReidLakesTop.jpg"
-                  alt="Another beautiful landscape"
-                ></img>
-              </div>
-            </div>
-            <div className="image-container">
-              <img
-                src="../pictures/ChampTrailHike.jpg"
-                alt="Beautiful landscape"
-              ></img>
-              <div className="image">
-                <img
-                  src="../pictures/ReidLakes.jpg"
-                  alt="Another beautiful landscape"
-                ></img>
-              </div>
-            </div>
             <div className="text">
-              <h2>Alaskan Hiking</h2>
+              <h2>
+                <b>Goldens</b>
+              </h2>
               <p>
-                My Sister lives in Alaska, and I got the opportunity to go visit
-                with her and her fiancé this summer. There seems to be infinite
-                hiking and anything outdoorsy in the summer, and mixed with the
-                picturesqe landscapes it made for the best summer vacation.
+                These dogs are among the most comically clumsy creatures around.
+                Despite their penchant for mischief, they undeniably add a touch
+                of excitement and joy to life. Although both of these retrievers
+                look alike, they are actually two completely different bundles
+                of joy.
               </p>
             </div>
-          </div>
-        </section>
-        <hr />
-        <section className="about-section">
-          <div className="section-content">
             <div className="image-container-dog">
-              <img
-                src="../pictures/BeauxBall.jpg"
-                alt="Another beautiful landscape"
-              ></img>
+              <img src="../pictures/BeauxBall.jpg" alt="Golden"></img>
             </div>
             <div className="image-container-dog">
               <img
                 src="../pictures/HoldingYukla.jpg"
-                alt="Beautiful landscape"
+                alt="MeHoldingYukla"
               ></img>
             </div>
             <div className="image-container-dog">
-              <img
-                src="../pictures/Yukla.jpg"
-                alt="Another beautiful landscape"
-              ></img>
-            </div>
-
-            <div className="text">
-              <h2>Goldens</h2>
-              <p>
-                These dogs are some of the most comically clumsy creatures
-                around, and despite their penchant for mischief, they undeniably
-                add a touch of excitement and joy to life.
-              </p>
+              <img src="../pictures/Yukla.jpg" alt="Golden"></img>
             </div>
           </div>
         </section>
