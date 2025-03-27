@@ -13,7 +13,7 @@ const Footer = () => {
         <div>
           <a href="https://github.com/Jclostio/Projects">Github Projects</a>
         </div>
-        <div>© 2023 Jacob Clostio using React</div>
+        <div>© 2025 Jacob Clostio using React</div>
       </div>
     </>
   );

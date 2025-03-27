@@ -1,9 +1,11 @@
 import "./MainContent.css";
+import ParticleBackground from "./ParticleBackground";
 
 const MainContent = () => {
   return (
     <>
       <div className="main-content">
+      <ParticleBackground />
         <div className="main-img">
           <img src="./pictures/Me.jpg" alt="Jacob Clostio" />
         </div>

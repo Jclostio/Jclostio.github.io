@@ -1,10 +1,12 @@
 import "./About.css";
-import FadeIn from "react-fade-in/lib/FadeIn";
+import { motion } from "framer-motion";
+import ParticleBackground from "./ParticleBackground";
 
 const About = () => {
   return (
     <>
-      <FadeIn>
+      <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
+      <ParticleBackground />
         <div className="about-header">
           <h1>
             <b>About Me</b>
@@ -96,7 +98,7 @@ const About = () => {
             </div>
           </div>
         </section>
-      </FadeIn>
+      </motion.div>
     </>
   );
 };

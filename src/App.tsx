@@ -5,14 +5,14 @@ import Projects from "./components/Projects";
 import About from "./components/About";
 
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
-import FadeIn from "react-fade-in/lib/FadeIn";
+import { motion } from "framer-motion";
 import "./App.css";
 
 function App() {
   return (
     <>
       <Router>
-        <FadeIn>
+        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
           <Navbar />
           <Routes>
             <Route path="/" element={<MainContent />} />
@@ -20,7 +20,7 @@ function App() {
             <Route path="/projects" element={<Projects />} />
           </Routes>
           <Footer />
-        </FadeIn>
+        </motion.div>
       </Router>
     </>
   );
