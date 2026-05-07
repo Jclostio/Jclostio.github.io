@@ -1,54 +1,29 @@
-import "bootstrap/dist/css/bootstrap.css";
 import "./Navbar.css";
 import { useEffect, useState } from "react";
 
 const Navbar = () => {
-  const [isScrolled, setIsScrolled] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
-    const handleScroll = () => {
-      if (window.scrollY > 10) {
-        setIsScrolled(true); // Set state to indicate that the user has scrolled
-      } else {
-        setIsScrolled(false); // Set state to indicate that the user is at the top
-      }
-    };
-
-    window.addEventListener("scroll", handleScroll);
-
-    // Cleanup the event listener when the component unmounts
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
+    const onScroll = () => setScrolled(window.scrollY > 20);
+    window.addEventListener("scroll", onScroll);
+    return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
   return (
-    <div>
-      <nav className={`navbar ${isScrolled ? "scrolled" : ""}`}>
-        <div className="container-fluid">
-          <a className="navbar-brand" href="/">
-            <img src="./pictures/logo.png" alt="Jacob Clostio" />
+    <nav className={`navbar ${scrolled ? "navbar--scrolled" : ""}`}>
+      <a href="#hero" className="navbar__brand">JC</a>
+      <ul className="navbar__links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li>
+          <a href="./Resume.pdf" target="_blank" className="navbar__resume">
+            Resume
           </a>
-          <ul className="nav justify-content-center">
-            <li className="nav-item">
-              <a className="nav-link" href="#/about">
-                About
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#/projects">
-                Projects
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="./Resume.pdf" target="_blank">
-                Resume
-              </a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </div>
+        </li>
+      </ul>
+    </nav>
   );
 };
 

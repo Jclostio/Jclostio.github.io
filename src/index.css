@@ -1,14 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --glass: rgba(255, 255, 255, 0.05);
+  --glass-hover: rgba(255, 255, 255, 0.09);
+  --glass-border: rgba(255, 255, 255, 0.12);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --accent-1: #a78bfa;
+  --accent-2: #60a5fa;
+  --text: #ffffff;
+  --text-muted: rgba(255, 255, 255, 0.6);
+  --radius: 16px;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #0f0c29;
+  background-image: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+  background-attachment: fixed;
+  min-height: 100%;
+}
+
 body {
-  place-items: center;
-  background-color: #e6e6e6;
+  font-family: 'Inter', sans-serif;
+  background: transparent;
+  color: var(--text);
+  min-height: 100vh;
+  line-height: 1.6;
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
-hr {
-  margin-left: 10%;
-  margin-right: 10%;
+/* Shared section layout */
+.section {
+  padding: 6rem 4rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  scroll-margin-top: 70px;
 }
 
+.section__header {
+  margin-bottom: 3rem;
+}
+
+.section__label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #a78bfa, #60a5fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.section__title {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-weight: 700;
+  color: var(--text);
+}
+
+/* Glass card */
+.glass-card {
+  background: var(--glass);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius);
+  padding: 2rem;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  line-height: 1.8;
+  box-shadow: var(--glass-shadow);
+  transition: background 0.25s, border-color 0.25s;
+}
+
+.glass-card:hover {
+  background: var(--glass-hover);
+  border-color: rgba(167, 139, 250, 0.2);
+}
+
+/* Skill chip */
+.skill-chip {
+  padding: 0.35rem 0.9rem;
+  background: rgba(167, 139, 250, 0.1);
+  border: 1px solid rgba(167, 139, 250, 0.25);
+  border-radius: 100px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--accent-1);
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 4rem 1.5rem;
+  }
+}
