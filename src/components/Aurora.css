@@ -1,0 +1,24 @@
+.aurora {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.aurora__blob {
+  position: absolute;
+  border-radius: 50%;
+  will-change: transform;
+}
+
+.aurora__blob--1 {
+  width: 700px;
+  height: 500px;
+  background: #2dd4bf;
+  filter: blur(120px);
+  opacity: 0.05;
+  bottom: -150px;
+  right: -150px;
+}
+

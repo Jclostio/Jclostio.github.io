@@ -1,6 +1,7 @@
 import "./Contact.css";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
+import ScrambleText from "./ScrambleText";
 
 const Contact = () => {
   const ref = useRef(null);
@@ -15,7 +16,7 @@ const Contact = () => {
         transition={{ duration: 0.5 }}
       >
         <span className="section__label">Contact</span>
-        <h2 className="section__title">Get in touch</h2>
+        <h2 className="section__title"><ScrambleText text="Get in touch" /></h2>
       </motion.div>
 
       <motion.div

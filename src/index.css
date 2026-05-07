@@ -102,4 +102,9 @@ body {
   .section {
     padding: 4rem 1.5rem;
   }
+
+  /* background-attachment: fixed causes scroll rendering bugs on mobile */
+  html {
+    background-attachment: scroll;
+  }
 }

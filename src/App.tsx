@@ -5,6 +5,9 @@ import Hero from "./components/Hero";
 import AboutSection from "./components/AboutSection";
 import ProjectsSection from "./components/ProjectsSection";
 import Contact from "./components/Contact";
+import ParticleDust from "./components/ParticleDust";
+import Aurora from "./components/Aurora";
+import SectionDivider from "./components/SectionDivider";
 
 function App() {
   return (
@@ -13,11 +16,16 @@ function App() {
       animate={{ opacity: 1 }}
       transition={{ duration: 0.4 }}
     >
+      <Aurora />
+      <ParticleDust />
       <Navbar />
-      <main>
+      <main style={{ position: "relative", zIndex: 1 }}>
         <Hero />
+        <SectionDivider />
         <AboutSection />
+        <SectionDivider />
         <ProjectsSection />
+        <SectionDivider />
         <Contact />
       </main>
     </motion.div>

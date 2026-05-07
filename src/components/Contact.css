@@ -1,5 +1,5 @@
 .contact-section {
-  padding-bottom: 0;
+  padding-bottom: 0 !important;
 }
 
 .contact-card {
@@ -52,8 +52,9 @@
 }
 
 .site-footer {
+  margin-top: 10rem;
   text-align: center;
-  padding: 3rem 0 2rem;
+  padding: 0.5rem 0 2rem;
   color: rgba(255, 255, 255, 0.2);
   font-size: 0.8rem;
 }

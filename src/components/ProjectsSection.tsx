@@ -1,6 +1,8 @@
 import "./ProjectsSection.css";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
+import TiltCard from "./TiltCard";
+import ScrambleText from "./ScrambleText";
 
 const projects = [
   {
@@ -38,31 +40,32 @@ const ProjectsSection = () => {
         animate={inView ? { opacity: 1, y: 0 } : {}}
         transition={{ duration: 0.5 }}
       >
-        <span className="section__label">Work</span>
-        <h2 className="section__title">Projects</h2>
+        <span className="section__label">Coding</span>
+        <h2 className="section__title"><ScrambleText text="Projects" /></h2>
       </motion.div>
 
       <div className="projects__grid">
         {projects.map((p, i) => (
-          <motion.a
-            key={p.title}
-            href={p.link}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="project-card glass-card"
-            initial={{ opacity: 0, y: 30 }}
-            animate={inView ? { opacity: 1, y: 0 } : {}}
-            transition={{ duration: 0.5, delay: i * 0.1 }}
-          >
-            <h3 className="project-card__title">{p.title}</h3>
-            <p className="project-card__desc">{p.description}</p>
-            <div className="project-card__tags">
-              {p.tags.map((t) => (
-                <span key={t} className="skill-chip">{t}</span>
-              ))}
-            </div>
-            <span className="project-card__link">View on GitHub →</span>
-          </motion.a>
+          <TiltCard key={p.title}>
+            <motion.a
+              href={p.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="project-card glass-card"
+              initial={{ opacity: 0, y: 30 }}
+              animate={inView ? { opacity: 1, y: 0 } : {}}
+              transition={{ duration: 0.5, delay: i * 0.1 }}
+            >
+              <h3 className="project-card__title">{p.title}</h3>
+              <p className="project-card__desc">{p.description}</p>
+              <div className="project-card__tags">
+                {p.tags.map((t) => (
+                  <span key={t} className="skill-chip">{t}</span>
+                ))}
+              </div>
+              <span className="project-card__link">View on GitHub →</span>
+            </motion.a>
+          </TiltCard>
         ))}
       </div>
     </section>
