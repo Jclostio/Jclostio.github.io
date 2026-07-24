@@ -1,0 +1,3276 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "population": 43844000,
+    "flagColors": [
+      "#000001",
+      "#009900",
+      "#BF0000",
+      "#FFFFFF",
+      "#BD6B00"
+    ],
+    "nationalBird": "Golden Eagle",
+    "nationalFlower": "Tulip",
+    "nationalDish": "Kabuli Palaw",
+    "nationalAnimal": "Snow Leopard"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "population": 2363314,
+    "flagColors": [
+      "#FF0000",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Tavë Kosi",
+    "nationalAnimal": "Golden Eagle"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "population": 47400000,
+    "flagColors": [
+      "#FFFFFF",
+      "#006233",
+      "#D21034"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Iris",
+    "nationalDish": "Couscous",
+    "nationalAnimal": "Fennec Fox"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "population": 88406,
+    "flagColors": [
+      "#D0103A",
+      "#FEDF00",
+      "#0018A8",
+      "#C7B37F",
+      "#703D29",
+      "#D52B1E",
+      "#FFFFFF",
+      "#FCD900"
+    ],
+    "nationalBird": "Bearded Vulture",
+    "nationalFlower": "Narcissus",
+    "nationalDish": "Escudella I Carn D'Olla",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "population": 36170961,
+    "flagColors": [
+      "#FF0000",
+      "#000001",
+      "#FFEC00",
+      "#FFEE00"
+    ],
+    "nationalBird": "Red-Crested Turaco",
+    "nationalFlower": "Welwitschia",
+    "nationalDish": "Moamba De Galinha",
+    "nationalAnimal": "Sable Antelope"
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "continent": "North America",
+    "population": 103603,
+    "flagColors": [
+      "#FFFFFF",
+      "#000001",
+      "#0072C6",
+      "#CE1126",
+      "#FCD116"
+    ],
+    "nationalBird": "Magnificent Frigatebird",
+    "nationalFlower": "Dagger Log",
+    "nationalDish": "Fungee",
+    "nationalAnimal": "Fallow Deer"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "population": 46735004,
+    "flagColors": [
+      "#74ACDF",
+      "#FFFFFF",
+      "#F6B40E",
+      "#85340A",
+      "#843511"
+    ],
+    "nationalBird": "Rufous Hornero",
+    "nationalFlower": "Ceibo",
+    "nationalDish": "Asado",
+    "nationalAnimal": "Rufous Hornero"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "population": 3076200,
+    "flagColors": [
+      "#D90012",
+      "#0033A0",
+      "#F2A800"
+    ],
+    "nationalBird": "Golden Eagle",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Khorovats",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "population": 27536874,
+    "flagColors": [
+      "#00008B",
+      "#FFFFFF",
+      "#FF0000"
+    ],
+    "nationalBird": "Emu",
+    "nationalFlower": "Golden Wattle",
+    "nationalDish": "Roast Lamb",
+    "nationalAnimal": "Red Kangaroo"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "population": 9200931,
+    "flagColors": [
+      "#FFFFFF",
+      "#C8102E"
+    ],
+    "nationalBird": "Barn Swallow",
+    "nationalFlower": "Edelweiss",
+    "nationalDish": "Wiener Schnitzel",
+    "nationalAnimal": "Black Eagle"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "continent": "Asia",
+    "population": 10241722,
+    "flagColors": [
+      "#3F9C35",
+      "#ED2939",
+      "#00B9E4",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Dolma",
+    "nationalAnimal": "Karabakh Horse"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "continent": "North America",
+    "population": 398165,
+    "flagColors": [
+      "#FFFFFF",
+      "#FFE900",
+      "#08CED6",
+      "#000001"
+    ],
+    "nationalBird": "American Flamingo",
+    "nationalFlower": "Yellow Elder",
+    "nationalDish": "Crack Conch With Peas",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "capital": "Manama",
+    "continent": "Asia",
+    "population": 1594654,
+    "flagColors": [
+      "#FFFFFF",
+      "#CE1126"
+    ],
+    "nationalBird": "White-Eared Bulbul",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Kabsa",
+    "nationalAnimal": "Arabian Oryx"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "population": 169828911,
+    "flagColors": [
+      "#006A4E",
+      "#F42A41"
+    ],
+    "nationalBird": "Oriental Magpie-Robin",
+    "nationalFlower": "Shapla (Water Lily)",
+    "nationalDish": "Rice",
+    "nationalAnimal": "Royal Bengal Tiger"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "continent": "North America",
+    "population": 267800,
+    "flagColors": [
+      "#00267F",
+      "#FFC726",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Pride Of Barbados",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "population": 9109280,
+    "flagColors": [
+      "#CE1720",
+      "#FFFFFF",
+      "#007C30"
+    ],
+    "nationalBird": "White Stork",
+    "nationalFlower": "Flax",
+    "nationalDish": "Draniki",
+    "nationalAnimal": "European Bison"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "population": 11825551,
+    "flagColors": [
+      "#000001",
+      "#FFD90C",
+      "#F31830"
+    ],
+    "nationalBird": "Common Kestrel",
+    "nationalFlower": "Red Poppy",
+    "nationalDish": "Frites",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "continent": "North America",
+    "population": 417634,
+    "flagColors": [
+      "#CE1126",
+      "#003F87",
+      "#FFFFFF",
+      "#007F00",
+      "#005800",
+      "#730000",
+      "#289400",
+      "#9DD7FF"
+    ],
+    "nationalBird": "Keel-Billed Toucan",
+    "nationalFlower": "Black Orchid",
+    "nationalDish": "Rice",
+    "nationalAnimal": "Baird'S Tapir"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "population": 13224860,
+    "flagColors": [
+      "#808080",
+      "#319400",
+      "#FFD600",
+      "#DE2110"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Kuli-Kuli",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "population": 784043,
+    "flagColors": [
+      "#FFD520",
+      "#FF4E12",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Common Raven",
+    "nationalFlower": "Blue Poppy",
+    "nationalDish": "Ema Datshi",
+    "nationalAnimal": "Takin"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "continent": "South America",
+    "population": 11365333,
+    "flagColors": [
+      "#007934",
+      "#FFE000",
+      "#D52B1E",
+      "#A05A2C",
+      "#E7E7E7",
+      "#00E519",
+      "#FFE533",
+      "#CCE5E5"
+    ],
+    "nationalBird": "Andean Condor",
+    "nationalFlower": "Kantuta",
+    "nationalDish": "SalteñAs",
+    "nationalAnimal": "Llama"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "population": 3422000,
+    "flagColors": [
+      "#000099",
+      "#FFCC00",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Golden Lily",
+    "nationalDish": "Bosnian Pot",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "population": 2359609,
+    "flagColors": [
+      "#00CBFF",
+      "#FFFFFF",
+      "#000001"
+    ],
+    "nationalBird": "Lilac-Breasted Roller",
+    "nationalFlower": "Rose",
+    "nationalDish": "Seswaa",
+    "nationalAnimal": "Zebra"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "population": 213421037,
+    "flagColors": [
+      "#229E45",
+      "#F8E509",
+      "#2B49A3",
+      "#FFFFEF",
+      "#FFFFFF",
+      "#309E3A",
+      "#F7FFFF"
+    ],
+    "nationalBird": "Rufous-Bellied Thrush",
+    "nationalFlower": "Golden Trumpet",
+    "nationalDish": "Feijoada",
+    "nationalAnimal": "Jaguar"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "population": 455500,
+    "flagColors": [
+      "#F7E017",
+      "#FFFFFF",
+      "#000001",
+      "#CF1126"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Simpoh Ayer",
+    "nationalDish": "Ambuyat",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "population": 6437360,
+    "flagColors": [
+      "#FFFFFF",
+      "#00966E",
+      "#D62612"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Rose",
+    "nationalDish": "Shopska Salad",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "population": 24070553,
+    "flagColors": [
+      "#DE0000",
+      "#35A100",
+      "#FFF300"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Rose",
+    "nationalDish": "Riz Gras",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "capital": "Gitega",
+    "continent": "Africa",
+    "population": 12332788,
+    "flagColors": [
+      "#18B637",
+      "#CF0921",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Boko Boko",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "population": 17577760,
+    "flagColors": [
+      "#032EA1",
+      "#E00025",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Giant Ibis",
+    "nationalFlower": "Rumdul",
+    "nationalDish": "Fish Amok",
+    "nationalAnimal": "Kouprey"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "continent": "Africa",
+    "population": 29442327,
+    "flagColors": [
+      "#007A5E",
+      "#CE1126",
+      "#FCD116"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Ndolé",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "population": 41651653,
+    "flagColors": [
+      "#FFFFFF",
+      "#D52B1E"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Poutine",
+    "nationalAnimal": "Beaver"
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "continent": "Africa",
+    "population": 491233,
+    "flagColors": [
+      "#FFFFFF",
+      "#081873",
+      "#DE3929",
+      "#FFCE08"
+    ],
+    "nationalBird": "Grey-Headed Kingfisher",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Cachupa",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "population": 6470307,
+    "flagColors": [
+      "#0000FF",
+      "#FFFF00",
+      "#009A00",
+      "#FFFFFF",
+      "#FF0000"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Cassava",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "population": 19340757,
+    "flagColors": [
+      "#002664",
+      "#C60C30",
+      "#FECB00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Boule",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "capital": "Santiago",
+    "continent": "South America",
+    "population": 20206953,
+    "flagColors": [
+      "#FFFFFF",
+      "#0039A6",
+      "#D52B1E"
+    ],
+    "nationalBird": "Andean Condor",
+    "nationalFlower": "Copihue",
+    "nationalDish": "Empanada",
+    "nationalAnimal": "Huemul"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "population": 1408280000,
+    "flagColors": [
+      "#FFFF00",
+      "#EE1C25"
+    ],
+    "nationalBird": "Red-Crowned Crane",
+    "nationalFlower": "Plum Blossom",
+    "nationalDish": "Peking Duck",
+    "nationalAnimal": "Giant Panda"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "population": 53057212,
+    "flagColors": [
+      "#FFE800",
+      "#00148E",
+      "#DA0010"
+    ],
+    "nationalBird": "Andean Condor",
+    "nationalFlower": "Orchid",
+    "nationalDish": "Ajiaco",
+    "nationalAnimal": "Andean Condor"
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "population": 919901,
+    "flagColors": [
+      "#FFFF00",
+      "#FFFFFF",
+      "#BE0027",
+      "#3B5AA3",
+      "#239E46"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Langouste A La Vanille",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "continent": "North America",
+    "population": 5309625,
+    "flagColors": [
+      "#0000B4",
+      "#FFFFFF",
+      "#D90000"
+    ],
+    "nationalBird": "Clay-Colored Thrush",
+    "nationalFlower": "Guaria Morada",
+    "nationalDish": "Casado",
+    "nationalAnimal": "White-Tailed Deer"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "population": 3866233,
+    "flagColors": [
+      "#171796",
+      "#FFFFFF",
+      "#FF0000",
+      "#0093DD",
+      "#F7DB17"
+    ],
+    "nationalBird": "Nightingale",
+    "nationalFlower": "Iris Croatica",
+    "nationalDish": "Zagorski šTrukli",
+    "nationalAnimal": "Pine Marten"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "capital": "Havana",
+    "continent": "North America",
+    "population": 9748007,
+    "flagColors": [
+      "#002A8F",
+      "#FFFFFF",
+      "#CB1515"
+    ],
+    "nationalBird": "Cuban Trogon",
+    "nationalFlower": "White Ginger Lily",
+    "nationalDish": "Ropa Vieja",
+    "nationalAnimal": "Cuban Trogon"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "population": 1442614,
+    "flagColors": [
+      "#FFFFFF",
+      "#435125",
+      "#D47600"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Cyprus Cyclamen",
+    "nationalDish": "Souvla",
+    "nationalAnimal": "Cypriot Mouflon"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "capital": "Prague",
+    "continent": "Europe",
+    "population": 10882341,
+    "flagColors": [
+      "#FFFFFF",
+      "#D7141A",
+      "#11457E"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Rose",
+    "nationalDish": "VepřO Knedlo Zelo (Roast Pork With Dumplings",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "population": 6011488,
+    "flagColors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Mute Swan",
+    "nationalFlower": "Marguerite Daisy",
+    "nationalDish": "Stegt FlæSk",
+    "nationalAnimal": "Mute Swan"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "population": 1066809,
+    "flagColors": [
+      "#00CC00",
+      "#6699FF",
+      "#FFFEFE",
+      "#FF0000"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Skoudehkaris",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "capital": "Roseau",
+    "continent": "North America",
+    "population": 67408,
+    "flagColors": [
+      "#108C00",
+      "#FFD600",
+      "#000001",
+      "#FFFFFF",
+      "#E72910",
+      "#FFE700",
+      "#009200",
+      "#A95600"
+    ],
+    "nationalBird": "Imperial Amazon",
+    "nationalFlower": "Caribwood",
+    "nationalDish": "Mountain Chicken",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "population": 10771504,
+    "flagColors": [
+      "#FFFFFF",
+      "#002D62",
+      "#CE1126",
+      "#201B18",
+      "#EAC102",
+      "#006300",
+      "#FFFF00",
+      "#008F4C"
+    ],
+    "nationalBird": "Palmchat",
+    "nationalFlower": "BayahíBe Rose",
+    "nationalDish": "La Bandera (Rice",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "CD",
+    "name": "DR Congo",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "population": 112832000,
+    "flagColors": [
+      "#007FFF",
+      "#F7D618",
+      "#CE1021"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Poulet à La Moambé",
+    "nationalAnimal": "Okapi"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "continent": "South America",
+    "population": 18103660,
+    "flagColors": [
+      "#FFE800",
+      "#00148E",
+      "#DA0010",
+      "#808080",
+      "#FFDF00",
+      "#0000C4",
+      "#E10000",
+      "#005B00"
+    ],
+    "nationalBird": "Andean Condor",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Encebollado",
+    "nationalAnimal": "Andean Condor"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "population": 107271260,
+    "flagColors": [
+      "#000001",
+      "#FFFFFF",
+      "#CE1126",
+      "#C09300"
+    ],
+    "nationalBird": "Golden Eagle",
+    "nationalFlower": "Egyptian Lotus",
+    "nationalDish": "Ful Medames",
+    "nationalAnimal": "Steppe Eagle"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "population": 6029976,
+    "flagColors": [
+      "#0F47AF",
+      "#FFFFFF",
+      "#E60000",
+      "#1F601A",
+      "#00209F",
+      "#011322",
+      "#011D33",
+      "#FFCC00"
+    ],
+    "nationalBird": "Turquoise-Browed Motmot",
+    "nationalFlower": "Izote",
+    "nationalDish": "Pupusa",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "capital": "Ciudad de la Paz",
+    "continent": "Africa",
+    "population": 1668768,
+    "flagColors": [
+      "#E32118",
+      "#FFFFFF",
+      "#3E9A00",
+      "#0073CE",
+      "#73452B",
+      "#A36629",
+      "#009A3B",
+      "#FFD700"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Succotash",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "population": 3607000,
+    "flagColors": [
+      "#BE0027",
+      "#B4D7F4",
+      "#239E46",
+      "#F3E295"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Zigini With Injera",
+    "nationalAnimal": "Arabian Camel"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "population": 1369995,
+    "flagColors": [
+      "#1791FF",
+      "#000001",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Barn Swallow",
+    "nationalFlower": "Cornflower",
+    "nationalDish": "Kama",
+    "nationalAnimal": "Barn Swallow"
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "continent": "Africa",
+    "population": 1235549,
+    "flagColors": [
+      "#3E5EB9",
+      "#FFD900",
+      "#B10C0C",
+      "#FFFFFF",
+      "#A70000",
+      "#333333",
+      "#B3B3B3"
+    ],
+    "nationalBird": "Purple-Crested Turaco",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Shisa Nyama",
+    "nationalAnimal": "Thomson'S Gazelle"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "population": 111652998,
+    "flagColors": [
+      "#FFC621",
+      "#EF2118",
+      "#298C08",
+      "#006BC6"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Calla Lily",
+    "nationalDish": "Doro Wat With Injera",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "population": 900869,
+    "flagColors": [
+      "#68BFE5",
+      "#FFFFFF",
+      "#D21034",
+      "#FFD100",
+      "#00A651",
+      "#964B36",
+      "#000001",
+      "#FFF200"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Tagimaucia",
+    "nationalDish": "Kokoda",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "population": 5650325,
+    "flagColors": [
+      "#FFFFFF",
+      "#002F6C"
+    ],
+    "nationalBird": "Whooper Swan",
+    "nationalFlower": "Lily Of The Valley",
+    "nationalDish": "Rye Bread",
+    "nationalAnimal": "Brown Bear"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "capital": "Paris",
+    "continent": "Europe",
+    "population": 66351959,
+    "flagColors": [
+      "#000091",
+      "#FFFFFF",
+      "#E1000F"
+    ],
+    "nationalBird": "Gallic Rooster",
+    "nationalFlower": "Iris",
+    "nationalDish": "Escargot",
+    "nationalAnimal": "Gallic Rooster"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "population": 2469296,
+    "flagColors": [
+      "#FFE700",
+      "#36A100",
+      "#006DBC"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "African Tulip",
+    "nationalDish": "Poulet Nyembwe",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "population": 2422712,
+    "flagColors": [
+      "#FF0000",
+      "#FFFFFF",
+      "#000099",
+      "#009900"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Domoda",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "population": 4000921,
+    "flagColors": [
+      "#FFFFFF",
+      "#FF0000"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Khachapuri",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "population": 83491249,
+    "flagColors": [
+      "#FFCC00",
+      "#000001",
+      "#FF0000"
+    ],
+    "nationalBird": "Golden Eagle",
+    "nationalFlower": "Cornflower",
+    "nationalDish": "Schweinshaxe",
+    "nationalAnimal": "Eagle"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "capital": "Accra",
+    "continent": "Africa",
+    "population": 33742380,
+    "flagColors": [
+      "#006B3F",
+      "#FCD116",
+      "#CE1126",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Fufu",
+    "nationalAnimal": "Golden Eagle"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "capital": "Athens",
+    "continent": "Europe",
+    "population": 10400720,
+    "flagColors": [
+      "#0D5EAF",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Little Owl",
+    "nationalFlower": "Bear'S Breech",
+    "nationalDish": "Horiatiki",
+    "nationalAnimal": "Dolphin"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "capital": "St. George's",
+    "continent": "North America",
+    "population": 109021,
+    "flagColors": [
+      "#FCD116",
+      "#CE1126",
+      "#007A5E"
+    ],
+    "nationalBird": "Grenada Dove",
+    "nationalFlower": "Bougainvillea",
+    "nationalDish": "Oil Down",
+    "nationalAnimal": "Grenada Dove"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "population": 18079810,
+    "flagColors": [
+      "#4997D0",
+      "#FFFFFF",
+      "#406325",
+      "#67923D",
+      "#BA1F3E",
+      "#8C959D",
+      "#485654",
+      "#6C301E"
+    ],
+    "nationalBird": "Resplendent Quetzal",
+    "nationalFlower": "Monja Blanca",
+    "nationalDish": "PepiáN",
+    "nationalAnimal": "Quetzal"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "population": 14363931,
+    "flagColors": [
+      "#FF0000",
+      "#FFFF00",
+      "#009900"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Poulet Yassa",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "population": 1781308,
+    "flagColors": [
+      "#CE1126",
+      "#FCD116",
+      "#009E49",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Caldo De Mancarra",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "population": 772975,
+    "flagColors": [
+      "#399408",
+      "#FFFFFF",
+      "#FFDE08",
+      "#000001",
+      "#DE2110"
+    ],
+    "nationalBird": "Hoatzin",
+    "nationalFlower": "Victoria Regia Lily",
+    "nationalDish": "Pepperpot",
+    "nationalAnimal": "Jaguar"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "population": 11867032,
+    "flagColors": [
+      "#D21034",
+      "#00209F",
+      "#F1B517",
+      "#FFFFFF",
+      "#016A16",
+      "#0A328C",
+      "#D20014",
+      "#503200"
+    ],
+    "nationalBird": "Hispaniolan Trogon",
+    "nationalFlower": "Hibiscus",
+    "nationalDish": "Griot",
+    "nationalAnimal": "Hispaniolan Trogan"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "population": 9892632,
+    "flagColors": [
+      "#18C3DF",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Scarlet Macaw",
+    "nationalFlower": "Orchid Brassavola Digbyana",
+    "nationalDish": "Baleada",
+    "nationalAnimal": "White-Tailed Deer"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "population": 9539502,
+    "flagColors": [
+      "#D43516",
+      "#FFFFFF",
+      "#388D00"
+    ],
+    "nationalBird": "Saker Falcon",
+    "nationalFlower": "Tulip",
+    "nationalDish": "Goulash",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "continent": "Europe",
+    "population": 391810,
+    "flagColors": [
+      "#003897",
+      "#FFFFFF",
+      "#D72828"
+    ],
+    "nationalBird": "Gyrfalcon",
+    "nationalFlower": "Mountain Avens",
+    "nationalDish": "Lamb",
+    "nationalAnimal": "Gyrfalcon"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "population": 1417492000,
+    "flagColors": [
+      "#FF9933",
+      "#FFFFFF",
+      "#128807",
+      "#000088"
+    ],
+    "nationalBird": "Indian Peacock",
+    "nationalFlower": "Lotus",
+    "nationalDish": "Khichdi",
+    "nationalAnimal": "Royal Bengal Tiger"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "population": 284438782,
+    "flagColors": [
+      "#E70011",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Javan Hawk-Eagle",
+    "nationalFlower": "Melati Putih",
+    "nationalDish": "Nasi Goreng",
+    "nationalAnimal": "Komodo Dragon"
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "population": 85961000,
+    "flagColors": [
+      "#FFFFFF",
+      "#DA0000",
+      "#239F40",
+      "#D90000",
+      "#239E3F"
+    ],
+    "nationalBird": "Common Nightingale",
+    "nationalFlower": "Water Lily",
+    "nationalDish": "Abgoosht",
+    "nationalAnimal": "Asiatic Lion"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "population": 46118793,
+    "flagColors": [
+      "#FFFFFF",
+      "#CE1126",
+      "#000001",
+      "#007A3D"
+    ],
+    "nationalBird": "Chukar Partridge",
+    "nationalFlower": "Red Rose",
+    "nationalDish": "Masgouf",
+    "nationalAnimal": "Chukar Partridge"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "population": 5458600,
+    "flagColors": [
+      "#FFFFFF",
+      "#009A49",
+      "#FF7900"
+    ],
+    "nationalBird": "Northern Lapwing",
+    "nationalFlower": "Shamrock",
+    "nationalDish": "Soda Bread",
+    "nationalAnimal": "Red Deer"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "population": 10134800,
+    "flagColors": [
+      "#FFFFFF",
+      "#0038B8"
+    ],
+    "nationalBird": "Hoopoe",
+    "nationalFlower": "Poppy Anemone",
+    "nationalDish": "Falafel",
+    "nationalAnimal": "Israeli Gazelle"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "capital": "Rome",
+    "continent": "Europe",
+    "population": 58927633,
+    "flagColors": [
+      "#FFFFFF",
+      "#009246",
+      "#CE2B37"
+    ],
+    "nationalBird": "Italian Sparrow",
+    "nationalFlower": "Strawberry Tree Flower",
+    "nationalDish": "Pasta",
+    "nationalAnimal": "Wolf"
+  },
+  {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "continent": "Africa",
+    "population": 31719275,
+    "flagColors": [
+      "#00CD00",
+      "#FF9A00",
+      "#FFFFFF"
+    ],
+    "nationalBird": "White-Cheeked Turaco",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Atcheke",
+    "nationalAnimal": "African Elephant"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "continent": "North America",
+    "population": 2825544,
+    "flagColors": [
+      "#000001",
+      "#009900",
+      "#FFCC00"
+    ],
+    "nationalBird": "Doctor Bird",
+    "nationalFlower": "Lignum Vitae",
+    "nationalDish": "Ackee",
+    "nationalAnimal": "Red-Billed Streamertail"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "population": 123210000,
+    "flagColors": [
+      "#FFFFFF",
+      "#BC002D"
+    ],
+    "nationalBird": "Green Pheasant",
+    "nationalFlower": "Cherry Blossom",
+    "nationalDish": "Sushi",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "capital": "Amman",
+    "continent": "Asia",
+    "population": 11734000,
+    "flagColors": [
+      "#000001",
+      "#FFFFFF",
+      "#009900",
+      "#FF0000"
+    ],
+    "nationalBird": "Sinai Rosefinch",
+    "nationalFlower": "Black Iris",
+    "nationalDish": "Mansaf",
+    "nationalAnimal": "Arabian Oryx"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "continent": "Asia",
+    "population": 20426568,
+    "flagColors": [
+      "#00ABC2",
+      "#FFEC2D"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Lily",
+    "nationalDish": "Beshbarmak",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "population": 53330978,
+    "flagColors": [
+      "#FFFFFF",
+      "#000001",
+      "#006600",
+      "#BB0000"
+    ],
+    "nationalBird": "Lilac-Breasted Roller",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Ugali With Sukuma Wiki",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "continent": "Oceania",
+    "population": 120740,
+    "flagColors": [
+      "#E73E2D",
+      "#FEC74A",
+      "#005989",
+      "#FFFFFF",
+      "#FFC84B"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Palusami",
+    "nationalAnimal": "Magnificent Frigatebird"
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "continent": "Europe",
+    "population": 1585566,
+    "flagColors": [
+      "#244AA5",
+      "#D0A650",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Flia",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "population": 4881254,
+    "flagColors": [
+      "#FFFFFF",
+      "#F31830",
+      "#00D941",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Arfaj",
+    "nationalDish": "Machboos Laham",
+    "nationalAnimal": "Arabian Camel"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "population": 7281800,
+    "flagColors": [
+      "#FF0000",
+      "#FFFF00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Tulip",
+    "nationalDish": "Beshbarmak",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "population": 7647000,
+    "flagColors": [
+      "#CE1126",
+      "#002868",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Frangipani",
+    "nationalDish": "Larb/Laap",
+    "nationalAnimal": "Indian Elephant"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "capital": "Riga",
+    "continent": "Europe",
+    "population": 1829000,
+    "flagColors": [
+      "#981E32",
+      "#FFFFFF"
+    ],
+    "nationalBird": "White Wagtail",
+    "nationalFlower": "Oxeye Daisy",
+    "nationalDish": "Layered Rye Bread",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "population": 5490000,
+    "flagColors": [
+      "#EE161F",
+      "#FFFFFF",
+      "#00A850"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Kibbeh",
+    "nationalAnimal": "Striped Hyena"
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "population": 2116427,
+    "flagColors": [
+      "#FFFFFF",
+      "#009543",
+      "#00209F"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Spiral Aloe",
+    "nationalDish": "Pap-Pap",
+    "nationalAnimal": "Black Rhino"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "population": 5248621,
+    "flagColors": [
+      "#FFFFFF",
+      "#000066",
+      "#CC0000"
+    ],
+    "nationalBird": "Garden Bulbul",
+    "nationalFlower": "Pepper",
+    "nationalDish": "Dumboy",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "population": 7459000,
+    "flagColors": [
+      "#239E46",
+      "#000001",
+      "#E70013",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Pomegranate Blossom",
+    "nationalDish": "Couscous",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "population": 40900,
+    "flagColors": [
+      "#002B7F",
+      "#CE1126",
+      "#FFD83D",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Yellow Lily",
+    "nationalDish": "KäSknöPfle",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "population": 2894886,
+    "flagColors": [
+      "#006A44",
+      "#C1272D",
+      "#FDB913"
+    ],
+    "nationalBird": "White Stork",
+    "nationalFlower": "Rue",
+    "nationalDish": "Bigos",
+    "nationalAnimal": "White Stork"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "continent": "Europe",
+    "population": 681973,
+    "flagColors": [
+      "#ED2939",
+      "#FFFFFF",
+      "#00A1DE"
+    ],
+    "nationalBird": "Goldcrest",
+    "nationalFlower": "Rose",
+    "nationalDish": "Judd Mat Gaardebounen",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "population": 31727042,
+    "flagColors": [
+      "#FC3D32",
+      "#007E3A",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Poinciana",
+    "nationalDish": "Romazava",
+    "nationalAnimal": "Ring-Tailed Lemur"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "population": 20734262,
+    "flagColors": [
+      "#F41408",
+      "#21873B",
+      "#000001",
+      "#F31509"
+    ],
+    "nationalBird": "African Fish Eagle",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Thomson'S Gazelle"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "population": 34231700,
+    "flagColors": [
+      "#CC0000",
+      "#FFFFFF",
+      "#000066",
+      "#FFCC00"
+    ],
+    "nationalBird": "Rhinoceros Hornbill",
+    "nationalFlower": "Bunga Raya",
+    "nationalDish": "Nasi Lemak",
+    "nationalAnimal": "Malayan Tiger"
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "capital": "Malé",
+    "continent": "Asia",
+    "population": 515132,
+    "flagColors": [
+      "#D21034",
+      "#007E3A",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Oriental Turtle Dove",
+    "nationalFlower": "Pink Rose",
+    "nationalDish": "Mas Huni",
+    "nationalAnimal": "Yellowfin Tuna"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "population": 22395489,
+    "flagColors": [
+      "#FF0000",
+      "#009A00",
+      "#FFFF00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Tiguadege Na",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "population": 574250,
+    "flagColors": [
+      "#FFFFFF",
+      "#CF142B"
+    ],
+    "nationalBird": "Blue Rock Thrush",
+    "nationalFlower": "Maltese Centaury",
+    "nationalDish": "Stuffat Tal-Fenek",
+    "nationalAnimal": "Pharaoh Hound"
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "continent": "Oceania",
+    "population": 42418,
+    "flagColors": [
+      "#3B5AA3",
+      "#E2AE57",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Barramundi Cod",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "population": 4927532,
+    "flagColors": [
+      "#CD2A3E",
+      "#006233",
+      "#FFC400"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "population": 1243741,
+    "flagColors": [
+      "#00A04D",
+      "#151F6D",
+      "#EE2737",
+      "#FFCD00"
+    ],
+    "nationalBird": "Dodo",
+    "nationalFlower": "Boucle D'Oreille",
+    "nationalDish": "Dholl Puri",
+    "nationalAnimal": "Dodo"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "population": 130575786,
+    "flagColors": [
+      "#CE1126",
+      "#FFFFFF",
+      "#006847",
+      "#FCCA3E",
+      "#AA8C30",
+      "#9CA168",
+      "#717732",
+      "#016848"
+    ],
+    "nationalBird": "Golden Eagle",
+    "nationalFlower": "Dahlia",
+    "nationalDish": "Taco",
+    "nationalAnimal": "Golden Eagle"
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "continent": "Oceania",
+    "population": 105564,
+    "flagColors": [
+      "#6797D6",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "continent": "Europe",
+    "population": 2749076,
+    "flagColors": [
+      "#00319C",
+      "#FFDE00",
+      "#DE2110",
+      "#FF1900",
+      "#A77B3B",
+      "#FF0000",
+      "#564DFF",
+      "#FFFF00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "MăMăLigă",
+    "nationalAnimal": "Aurochs"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "continent": "Europe",
+    "population": 38423,
+    "flagColors": [
+      "#F31830",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Carnation",
+    "nationalDish": "Barbagiuan",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "continent": "Asia",
+    "population": 3544835,
+    "flagColors": [
+      "#FFD900",
+      "#DA2032",
+      "#0066B3"
+    ],
+    "nationalBird": "Saker Falcon",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Buuz",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "population": 623327,
+    "flagColors": [
+      "#D3AE3B",
+      "#C40308",
+      "#B96B29",
+      "#D4AF3A",
+      "#1D5E91",
+      "#6D8C3E",
+      "#C52126"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "NjegušKi PršUt",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "population": 36828330,
+    "flagColors": [
+      "#C1272D"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Couscous",
+    "nationalAnimal": "Barbary Lion"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "population": 34090466,
+    "flagColors": [
+      "#009A00",
+      "#FFFFFF",
+      "#000001",
+      "#FFCA00",
+      "#FF0000"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "African Elephant"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "continent": "Asia",
+    "population": 51316756,
+    "flagColors": [
+      "#FECB00",
+      "#34B233",
+      "#EA2839",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Grey Peacock-Pheasant",
+    "nationalFlower": "Padauk",
+    "nationalDish": "Mohinga",
+    "nationalAnimal": "Tiger"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "population": 3022401,
+    "flagColors": [
+      "#FFFFFF",
+      "#3662A2",
+      "#38A100",
+      "#C70000",
+      "#FFE700"
+    ],
+    "nationalBird": "African Fish Eagle",
+    "nationalFlower": "Welwitschia",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Oryx"
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "capital": "Yaren",
+    "continent": "Oceania",
+    "population": 11680,
+    "flagColors": [
+      "#002170",
+      "#FFB20D",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Coconut Fish",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "population": 29911840,
+    "flagColors": [
+      "#CE0000",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Himalayan Monal",
+    "nationalFlower": "Rhododendron",
+    "nationalDish": "Gundruk",
+    "nationalAnimal": "Cow"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "population": 18100436,
+    "flagColors": [
+      "#AE1C28",
+      "#FFFFFF",
+      "#21468B"
+    ],
+    "nationalBird": "Black-Tailed Godwit",
+    "nationalFlower": "Daisy",
+    "nationalDish": "Stamppot",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "population": 5324700,
+    "flagColors": [
+      "#00247D",
+      "#FFFFFF",
+      "#CC142B",
+      "#012169",
+      "#C8102E"
+    ],
+    "nationalBird": "Kiwi",
+    "nationalFlower": "Kowhai",
+    "nationalDish": "Meat Pie",
+    "nationalAnimal": "Kiwi"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "continent": "North America",
+    "population": 6803886,
+    "flagColors": [
+      "#0067C6",
+      "#FFFFFF",
+      "#C8A400",
+      "#17C0EB",
+      "#FF0000",
+      "#FF6600",
+      "#FFFF00",
+      "#00FF00"
+    ],
+    "nationalBird": "Turquoise-Browed Motmot",
+    "nationalFlower": "Sacuanjoche",
+    "nationalDish": "Gallo Pinto",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "population": 26312034,
+    "flagColors": [
+      "#0DB02B",
+      "#FFFFFF",
+      "#E05206"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Dambou",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "population": 223800000,
+    "flagColors": [
+      "#FFFFFF",
+      "#008753"
+    ],
+    "nationalBird": "Black Crowned Crane",
+    "nationalFlower": "Spiral Ginger",
+    "nationalDish": "Tuwon Shinkafa",
+    "nationalAnimal": "Eagle"
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "population": 25950000,
+    "flagColors": [
+      "#FFFFFF",
+      "#3E5698",
+      "#C60000",
+      "#C40000"
+    ],
+    "nationalBird": "Northern Goshawk",
+    "nationalFlower": "Magnolia",
+    "nationalDish": "RaengmyŏN",
+    "nationalAnimal": "Chollima"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "population": 1822612,
+    "flagColors": [
+      "#D20000",
+      "#FFE600"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Opium Poppy",
+    "nationalDish": "TavčE GravčE",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "population": 5606944,
+    "flagColors": [
+      "#ED2939",
+      "#FFFFFF",
+      "#002664"
+    ],
+    "nationalBird": "White-Throated Dipper",
+    "nationalFlower": "Pyramidal Saxifrage",
+    "nationalDish": "FåRikåL",
+    "nationalAnimal": "Moose"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "population": 5343630,
+    "flagColors": [
+      "#EF2D29",
+      "#009025",
+      "#FFFFFF",
+      "#EF0000"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Shuwa",
+    "nationalAnimal": "Arabian Oryx"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "population": 241499431,
+    "flagColors": [
+      "#0C590B",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Chukar Partridge",
+    "nationalFlower": "Common Jasmine",
+    "nationalDish": "Biryani",
+    "nationalAnimal": "Markhor"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "continent": "Oceania",
+    "population": 16733,
+    "flagColors": [
+      "#4AADD6",
+      "#FFDE00"
+    ],
+    "nationalBird": "Palau Fruit Dove",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "capital": "Panama City",
+    "continent": "North America",
+    "population": 4064780,
+    "flagColors": [
+      "#FFFFFF",
+      "#DB0000",
+      "#0000AB",
+      "#D80000"
+    ],
+    "nationalBird": "Harpy Eagle",
+    "nationalFlower": "Holy Ghost Orchid",
+    "nationalDish": "Sancocho",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "population": 11781559,
+    "flagColors": [
+      "#000001",
+      "#FF0000",
+      "#FFCC00",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Raggiana Bird-Of-Paradise",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "continent": "South America",
+    "population": 6109644,
+    "flagColors": [
+      "#0038A8",
+      "#FFFFFF",
+      "#D52B1E",
+      "#009B3A",
+      "#FEDF00"
+    ],
+    "nationalBird": "Bare-Throated Bellbird",
+    "nationalFlower": "Mburucuya",
+    "nationalDish": "Sopa Paraguaya",
+    "nationalAnimal": "Pampas Fox"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "capital": "Lima",
+    "continent": "South America",
+    "population": 34350244,
+    "flagColors": [
+      "#D91023",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Andean Cock-Of-The-Rock",
+    "nationalFlower": "Cantuta",
+    "nationalDish": "Ceviche",
+    "nationalAnimal": "VicuñA"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "capital": "Manila",
+    "continent": "Asia",
+    "population": 114123600,
+    "flagColors": [
+      "#0038A8",
+      "#CE1126",
+      "#FFFFFF",
+      "#FCD116"
+    ],
+    "nationalBird": "Philippine Eagle",
+    "nationalFlower": "Sampaguita",
+    "nationalDish": "Adobo",
+    "nationalAnimal": "Carabao"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "population": 37392000,
+    "flagColors": [
+      "#FFFFFF",
+      "#DC143C"
+    ],
+    "nationalBird": "White-Tailed Eagle",
+    "nationalFlower": "Corn Poppy",
+    "nationalDish": "Bigos",
+    "nationalAnimal": "European Bison"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "population": 10749635,
+    "flagColors": [
+      "#FF0000",
+      "#006600",
+      "#FFFF00",
+      "#FFFFFF",
+      "#000001",
+      "#003399"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Lavender",
+    "nationalDish": "Bacalhau",
+    "nationalAnimal": "Iberian Wolf"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "capital": "Doha",
+    "continent": "Asia",
+    "population": 3173024,
+    "flagColors": [
+      "#8D1B3D",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Machboos",
+    "nationalAnimal": "Arabian Oryx"
+  },
+  {
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "population": 6142180,
+    "flagColors": [
+      "#FFFF00",
+      "#00CA00",
+      "#FF0000"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Poulet Moambé",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "population": 19036031,
+    "flagColors": [
+      "#00319C",
+      "#FFDE00",
+      "#DE2110"
+    ],
+    "nationalBird": "Great White Pelican",
+    "nationalFlower": "Peony",
+    "nationalDish": "MăMăLigă",
+    "nationalAnimal": "Lynx"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "capital": "Moscow",
+    "continent": "Europe",
+    "population": 146028325,
+    "flagColors": [
+      "#FFFFFF",
+      "#0039A6",
+      "#D52B1E"
+    ],
+    "nationalBird": "Tundra Swan",
+    "nationalFlower": "Chamomile",
+    "nationalDish": "Beef Stroganoff",
+    "nationalAnimal": "Bear"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "population": 14104969,
+    "flagColors": [
+      "#20603D",
+      "#FAD201",
+      "#00A1DE",
+      "#E5BE01"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Ibihaza",
+    "nationalAnimal": "Leopard"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "continent": "North America",
+    "population": 51320,
+    "flagColors": [
+      "#FFE900",
+      "#35A100",
+      "#C70000",
+      "#000001",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Brown Pelican",
+    "nationalFlower": "Poinciana",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "continent": "North America",
+    "population": 184100,
+    "flagColors": [
+      "#65CFFF",
+      "#FFFFFF",
+      "#000001",
+      "#FFCE00"
+    ],
+    "nationalBird": "Saint Lucian Parrot",
+    "nationalFlower": "Marguerite",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "continent": "North America",
+    "population": 110872,
+    "flagColors": [
+      "#F4F100",
+      "#199A00",
+      "#0058AA"
+    ],
+    "nationalBird": "Saint Vincent Parrot",
+    "nationalFlower": "Soufriere Tree",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Saint Vincent Parrot"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "capital": "Apia",
+    "continent": "Oceania",
+    "population": 205557,
+    "flagColors": [
+      "#CE1126",
+      "#002B7F",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Tooth-Billed Pigeon",
+    "nationalFlower": "Teuila",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "capital": "City of San Marino",
+    "continent": "Europe",
+    "population": 34132,
+    "flagColors": [
+      "#19B6EF",
+      "#FFFFFF",
+      "#FFDD00",
+      "#4FD46B",
+      "#65C7FF",
+      "#8FC753",
+      "#E40000",
+      "#C76E2E"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Cyclamen",
+    "nationalDish": "Torta Tre Monti",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "continent": "Africa",
+    "population": 209607,
+    "flagColors": [
+      "#12AD2B",
+      "#FFCE00",
+      "#D21034",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "population": 35300280,
+    "flagColors": [
+      "#165D31",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Saleeg",
+    "nationalAnimal": "Arabian Camel"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "population": 18593258,
+    "flagColors": [
+      "#0B7226",
+      "#FFFF00",
+      "#BC0000"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Thieboudienne",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "population": 6567783,
+    "flagColors": [
+      "#FFFFFF",
+      "#0C4076",
+      "#C6363C",
+      "#21231E",
+      "#EDB92E"
+    ],
+    "nationalBird": "Griffon Vulture",
+    "nationalFlower": "Natalie'S Ramonda",
+    "nationalDish": "ćEvapčIćI",
+    "nationalAnimal": "Wolf"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "population": 122729,
+    "flagColors": [
+      "#FFFFFF",
+      "#D92223",
+      "#FCD955",
+      "#003D88",
+      "#007A39"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Comet Orchid",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "population": 9077691,
+    "flagColors": [
+      "#0000CD",
+      "#FFFFFF",
+      "#00CD00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "population": 6110200,
+    "flagColors": [
+      "#FFFFFF",
+      "#DF0000"
+    ],
+    "nationalBird": "Crimson Sunbird",
+    "nationalFlower": "Singapore Orchid",
+    "nationalDish": "Chilli Crab",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "population": 5413813,
+    "flagColors": [
+      "#EE1C25",
+      "#0B4EA2",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Rose",
+    "nationalDish": "Pirohy",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "population": 2130638,
+    "flagColors": [
+      "#FFFFFF",
+      "#D50000",
+      "#0000BF",
+      "#FFDF00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Carnation",
+    "nationalDish": "Cremeschnitte",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "population": 750325,
+    "flagColors": [
+      "#0000D6",
+      "#006000",
+      "#FFCC00",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "population": 19655000,
+    "flagColors": [
+      "#40A6FF",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Bariis Iskukaris",
+    "nationalAnimal": "Leopard"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "continent": "Africa",
+    "population": 63100945,
+    "flagColors": [
+      "#000001",
+      "#000C8A",
+      "#E1392D",
+      "#FFB915",
+      "#007847",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Blue Crane",
+    "nationalFlower": "King Protea",
+    "nationalDish": "Bobotie",
+    "nationalAnimal": "Springbok"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "population": 51159889,
+    "flagColors": [
+      "#FFFFFF",
+      "#000001",
+      "#CD2E3A",
+      "#0047A0"
+    ],
+    "nationalBird": "Korean Magpie",
+    "nationalFlower": "Rose Of Sharon",
+    "nationalDish": "Kimchi",
+    "nationalAnimal": "Siberian Tiger"
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "continent": "Africa",
+    "population": 15786898,
+    "flagColors": [
+      "#078930",
+      "#FFFFFF",
+      "#000001",
+      "#DA121A",
+      "#0F47AF",
+      "#FCDD09"
+    ],
+    "nationalBird": "African Fish Eagle",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "African Fish Eagle"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "population": 49315949,
+    "flagColors": [
+      "#AA151B",
+      "#F1BF00",
+      "#AD1519",
+      "#C8B100",
+      "#FFFFFF",
+      "#058E6E",
+      "#005BBF",
+      "#CCCCCC"
+    ],
+    "nationalBird": "Spanish Imperial Eagle",
+    "nationalFlower": "Carnation",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Bull"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "continent": "Asia",
+    "population": 21763170,
+    "flagColors": [
+      "#FFB700",
+      "#FF5B00",
+      "#005641",
+      "#8D2029",
+      "#000001"
+    ],
+    "nationalBird": "Sri Lankan Junglefowl",
+    "nationalFlower": "Water Lily",
+    "nationalDish": "Rice",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "population": 51662000,
+    "flagColors": [
+      "#000001",
+      "#FFFFFF",
+      "#FF0000",
+      "#009A00"
+    ],
+    "nationalBird": "Secretary Bird",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "population": 616500,
+    "flagColors": [
+      "#377E3F",
+      "#FFFFFF",
+      "#B40A2D",
+      "#ECC81D"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Jungle Geranium",
+    "nationalDish": "Pom",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "population": 10605098,
+    "flagColors": [
+      "#005293",
+      "#FECB00"
+    ],
+    "nationalBird": "Common Blackbird",
+    "nationalFlower": "Harebell",
+    "nationalDish": "KöTtbullar",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "continent": "Europe",
+    "population": 9082848,
+    "flagColors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Edelweiss",
+    "nationalDish": "Fondue",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "population": 25620000,
+    "flagColors": [
+      "#FFFFFF",
+      "#007A3D",
+      "#CE1126"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Jasmine",
+    "nationalDish": "Kibbeh",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "population": 10499000,
+    "flagColors": [
+      "#006600",
+      "#FFFFFF",
+      "#CC0000",
+      "#F8C300"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Osh Palov",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "population": 68153004,
+    "flagColors": [
+      "#0099FF",
+      "#009900",
+      "#000001",
+      "#FFFF00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Chipsi Mayai",
+    "nationalAnimal": "Giraffe"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "population": 65859640,
+    "flagColors": [
+      "#F4F5F8",
+      "#2D2A4A",
+      "#A51931"
+    ],
+    "nationalBird": "Siamese Fireback",
+    "nationalFlower": "Golden Shower Tree",
+    "nationalDish": "Pad Thai",
+    "nationalAnimal": "Thai Elephant"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "continent": "Asia",
+    "population": 1391221,
+    "flagColors": [
+      "#CB000F",
+      "#F8C00C",
+      "#000001",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Crocodile"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "capital": "Lomé",
+    "continent": "Africa",
+    "population": 8095498,
+    "flagColors": [
+      "#FFE300",
+      "#118600",
+      "#D80000",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Fufu",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "continent": "Oceania",
+    "population": 100179,
+    "flagColors": [
+      "#C10000",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Heilala",
+    "nationalDish": "'Ota 'Ika",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "continent": "North America",
+    "population": 1367764,
+    "flagColors": [
+      "#FFFFFF",
+      "#E00000",
+      "#000001"
+    ],
+    "nationalBird": "Scarlet Ibis",
+    "nationalFlower": "Chaconia",
+    "nationalDish": "Doubles",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "population": 11972169,
+    "flagColors": [
+      "#E70013",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Jasmine",
+    "nationalDish": "Couscous",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "population": 85664944,
+    "flagColors": [
+      "#E30A17",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Redwing",
+    "nationalFlower": "Tulip",
+    "nationalDish": "Doner Kebab",
+    "nationalAnimal": "Gray Wolf"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "population": 7057841,
+    "flagColors": [
+      "#00843D",
+      "#FFFFFF",
+      "#D22630",
+      "#383739",
+      "#FFC72C"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Unknown",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "continent": "Oceania",
+    "population": 10643,
+    "flagColors": [
+      "#009FCA",
+      "#FFF40D",
+      "#012169",
+      "#FFFFFF",
+      "#C8102E"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Pulaka",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "population": 45905417,
+    "flagColors": [
+      "#FFE700",
+      "#000001",
+      "#DE3908",
+      "#FFFDFF",
+      "#DE3108",
+      "#9CA69C",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Grey Crowned Crane",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Matooke",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "population": 32862000,
+    "flagColors": [
+      "#0057B8",
+      "#FFD700"
+    ],
+    "nationalBird": "White Stork",
+    "nationalFlower": "Sunflower",
+    "nationalDish": "Borscht",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "population": 11294243,
+    "flagColors": [
+      "#00732F",
+      "#FFFFFF",
+      "#000001",
+      "#FF0000"
+    ],
+    "nationalBird": "Peregrine Falcon",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Harees",
+    "nationalAnimal": "Arabian Oryx"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "capital": "London",
+    "continent": "Europe",
+    "population": 69281437,
+    "flagColors": [
+      "#012169",
+      "#FFFFFF",
+      "#C8102E"
+    ],
+    "nationalBird": "European Robin",
+    "nationalFlower": "Tudor Rose",
+    "nationalDish": "A \"Full\" Fry-Up Breakfast",
+    "nationalAnimal": "Lion"
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "continent": "North America",
+    "population": 340110988,
+    "flagColors": [
+      "#BD3D44",
+      "#192F5D",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Bald Eagle",
+    "nationalFlower": "Rose",
+    "nationalDish": "Apple Pie",
+    "nationalAnimal": "Bald Eagle"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "population": 3499451,
+    "flagColors": [
+      "#FFFFFF",
+      "#0038A8",
+      "#FCD116"
+    ],
+    "nationalBird": "Southern Lapwing",
+    "nationalFlower": "Ceibo",
+    "nationalDish": "Chivito",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "population": 37859698,
+    "flagColors": [
+      "#1EB53A",
+      "#0099B5",
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Uzbek Plov (Also Spelled Palov",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "population": 321409,
+    "flagColors": [
+      "#009543",
+      "#D21034",
+      "#FDCE12"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Laplap",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "VA",
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "continent": "Europe",
+    "population": 882,
+    "flagColors": [
+      "#FFFFFF",
+      "#FFE000",
+      "#CE9D09",
+      "#CCCCCC",
+      "#FA0204"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Fettuccine Alla Papalina",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "continent": "South America",
+    "population": 28517000,
+    "flagColors": [
+      "#FFFFFF",
+      "#CF142B",
+      "#00247D",
+      "#FFCC00"
+    ],
+    "nationalBird": "Venezuelan Troupial",
+    "nationalFlower": "Flor De Mayo",
+    "nationalDish": "PabellóN Criollo",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "population": 101343800,
+    "flagColors": [
+      "#DA251D",
+      "#FFFF00"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Lotus",
+    "nationalDish": "Pho",
+    "nationalAnimal": "Water Buffalo"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "continent": "Asia",
+    "population": 32684503,
+    "flagColors": [
+      "#FFFFFF",
+      "#F10600",
+      "#000001"
+    ],
+    "nationalBird": "Unknown",
+    "nationalFlower": "Unknown",
+    "nationalDish": "Saltah",
+    "nationalAnimal": "Unknown"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "population": 19693423,
+    "flagColors": [
+      "#198A00",
+      "#EF7D00",
+      "#000001",
+      "#DE2010"
+    ],
+    "nationalBird": "African Fish Eagle",
+    "nationalFlower": "Bougainvillea",
+    "nationalDish": "Nshima",
+    "nationalAnimal": "African Fish Eagle"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "continent": "Africa",
+    "population": 17073087,
+    "flagColors": [
+      "#0000FF",
+      "#006400",
+      "#FFD200",
+      "#D40000",
+      "#000001",
+      "#FFFFFF",
+      "#FFCC00"
+    ],
+    "nationalBird": "African Fish Eagle",
+    "nationalFlower": "Flame Lily",
+    "nationalDish": "Sadza",
+    "nationalAnimal": "Sable Antelope"
+  }
+]

@@ -1,5 +1,11 @@
 import "./Hero.css";
+import React from "react";
 import { motion } from "framer-motion";
+
+const scrollTo = (id: string) => (e: React.MouseEvent) => {
+  e.preventDefault();
+  document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
+};
 
 const Hero = () => {
   return (
@@ -46,8 +52,8 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.5 }}
           >
-            <a href="#projects" className="btn btn--primary">View Projects</a>
-            <a href="#contact" className="btn btn--secondary">Get in Touch</a>
+            <a href="#projects" className="btn btn--primary" onClick={scrollTo("projects")}>View Projects</a>
+            <a href="#contact" className="btn btn--secondary" onClick={scrollTo("contact")}>Get in Touch</a>
           </motion.div>
         </div>
 
@@ -64,6 +70,7 @@ const Hero = () => {
               className="hero__photo"
             />
           </div>
+
         </motion.div>
       </div>
     </section>
